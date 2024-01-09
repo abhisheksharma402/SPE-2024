@@ -1,3 +1,5 @@
 this is a sample file.
 
 Added something - member 1
+
+Added something - member 2
